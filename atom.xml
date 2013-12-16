@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[家有小胖妞]]></title>
+  <title><![CDATA[dudu's Blog]]></title>
   <link href="http://dudu0755.github.io/atom.xml" rel="self"/>
   <link href="http://dudu0755.github.io/"/>
-  <updated>2013-12-16T15:50:00+08:00</updated>
+  <updated>2013-12-16T15:55:58+08:00</updated>
   <id>http://dudu0755.github.io/</id>
   <author>
-    <name><![CDATA[嘟嘟妈]]></name>
+    <name><![CDATA[Your Name]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
